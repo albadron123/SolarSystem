@@ -1,0 +1,34 @@
+{
+	"name": "test",
+	"planetBlueprints":
+	[
+	{
+		"eccentricity": 0.9,
+		"semimajorAxis": 2.5,
+		"longitudeOfTheAscendingNode": 30,
+	    "argumentOfPeriapsis": 65,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.12,
+		"semimajorAxis": 1,
+		"longitudeOfTheAscendingNode": 45,
+	    "argumentOfPeriapsis": 63,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.9,
+		"semimajorAxis": 3,
+		"longitudeOfTheAscendingNode": 5,
+	    "argumentOfPeriapsis": 35,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.6,
+		"semimajorAxis": 1.7,
+		"longitudeOfTheAscendingNode": 48,
+	    "argumentOfPeriapsis": 180,
+	    "trueAnomaly": 0
+	}
+	]	
+}

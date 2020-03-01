@@ -1,0 +1,62 @@
+{
+	"name": "solar system",
+	"planetBlueprints":
+	[
+	{
+		"eccentricity": 0.2056,
+		"semimajorAxis": 0.38,
+		"longitudeOfTheAscendingNode": 48,
+	    "argumentOfPeriapsis": 29,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.0068,
+		"semimajorAxis": 0.72,
+		"longitudeOfTheAscendingNode": 77,
+	    "argumentOfPeriapsis": 55,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.0167,
+		"semimajorAxis": 1,
+		"longitudeOfTheAscendingNode": 349,
+	    "argumentOfPeriapsis": 114,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.093,
+		"semimajorAxis": 1.524,
+		"longitudeOfTheAscendingNode": 50,
+	    "argumentOfPeriapsis": 286,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.048,
+		"semimajorAxis": 5.2,
+		"longitudeOfTheAscendingNode": 101,
+	    "argumentOfPeriapsis": 275,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.055,
+		"semimajorAxis": 9.53,
+		"longitudeOfTheAscendingNode": 114,
+	    "argumentOfPeriapsis": 336,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.044,
+		"semimajorAxis": 19.18,
+		"longitudeOfTheAscendingNode": 74,
+	    "argumentOfPeriapsis": 96,
+	    "trueAnomaly": 0
+	},
+	{
+		"eccentricity": 0.011,
+		"semimajorAxis": 30.06,
+		"longitudeOfTheAscendingNode": 131,
+	    "argumentOfPeriapsis": 265,
+	    "trueAnomaly": 0
+	}
+	]	
+}
